@@ -67,3 +67,7 @@ One URL for multiple variations and keeping the layout the same
 # Link Component Navigation
 
 `<Link href='/blog' legacyBehavior>`
+
+# Customer 404 Page
+
+Create a `404.js` file in pages folder.
